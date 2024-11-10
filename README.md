@@ -1,4 +1,4 @@
-# Api Clientes (.NET)
+# Api Clientes (.NET 6)
 
 ## Descripción
 Este proyecto es una Api REST desarrollada en el entorno de .NET 6 enfocada a la administracion de Clientes pudiendo agregar, editar, visualizar o eliminar registros de los mismos.
